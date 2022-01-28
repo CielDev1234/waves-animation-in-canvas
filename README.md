@@ -1,2 +1,2 @@
 # waves-animation-in-canvas
-iSOでの動作非対応
+iOSでの動作非対応
